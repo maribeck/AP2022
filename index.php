@@ -65,7 +65,7 @@ if(isset($_REQUEST['action']))
     <div class="jumbotron text-center">
     <iframe src="https://embed.lottiefiles.com/animation/51570"></iframe>
 
-    <h1>Lista de Compras 🥩🧀🍎🥕🥦 </h1>
+    <h1>Lista de Compras 🥩🧀🍎🥕🥦🍤</h1>
     </div>
 
     <div class="col-sm-4"></div></div>
