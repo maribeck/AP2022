@@ -8,6 +8,10 @@ body{
     background-attachment: fixed;
     background-size: cover;
 }
+.estiloprueba{
+  font-size: 12px;
+}
+
 
 .lista{
     width: 100%;
